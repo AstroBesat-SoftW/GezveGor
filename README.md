@@ -1,16 +1,4 @@
-# gezveogren
+# gezveogren Uyarı SDK SÜRÜMÜ:   sdk: '>=2.19.5 <3.0.0'   Kütüphaneleri dahil etmeyi unutmayınız.
 
-A new Flutter project.
+![playstore](https://github.com/AstroBesat-SoftW/GezveGor/assets/128177174/42e06e82-cdf8-4072-a656-255948c3ab2e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
