@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "530400129077",
+    "firebase_url": "https://gezvegor-f17f5-default-rtdb.firebaseio.com",
+    "project_id": "gezvegor-f17f5",
+    "storage_bucket": "gezvegor-f17f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530400129077:android:b71c7c8f57874c4909817c",
+        "android_client_info": {
+          "package_name": "com.company.gezvegor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkI-qoy9fVCOiz2iXLHwMdH-c7YXysMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530400129077:android:083026fba6a1be6909817c",
+        "android_client_info": {
+          "package_name": "com.example.gezveogren"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkI-qoy9fVCOiz2iXLHwMdH-c7YXysMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
