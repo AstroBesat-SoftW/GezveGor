@@ -1616,7 +1616,7 @@ class MapScreen extends StatefulWidget {
 
 class _MapScreenState extends State<MapScreen> {
   late GoogleMapController mapController;
-  final String apiKey = 'AIzaSyAqoYtOZPlJ48ubFAMKi55DJNVexkc3b3U'; // Google Maps API anahtarınızı buraya ekleyin
+  final String apiKey = '-----------'; // Google Maps API anahtarınızı buraya ekleyin
   LocationData? currentLocation;
 
   @override
@@ -1755,7 +1755,7 @@ class MapScreen extends StatefulWidget {
 
 class _MapScreenState extends State<MapScreen> {
   late GoogleMapController mapController;
-  final String apiKey = 'AIzaSyAqoYtOZPlJ48ubFAMKi55DJNVexkc3b3U'; // API anahtarınızı buraya ekleyin
+  final String apiKey = '----------------------'; // API anahtarınızı buraya ekleyin
     // AIzaSyAqoYtOZPlJ48ubFAMKi55DJNVexkc3b3U
   @override
   Widget build(BuildContext context) {
