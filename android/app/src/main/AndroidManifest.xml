@@ -40,6 +40,6 @@
         <!-- Google Haritalar API Anahtarı eklendi -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAqoYtOZPlJ48ubFAMKi55DJNVexkc3b3U" />
+            android:value="------ buraya api ekle " />
     </application>
 </manifest>
